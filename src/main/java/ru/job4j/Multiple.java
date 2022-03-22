@@ -11,4 +11,4 @@ public class Multiple{
   System.out.println("1 * 8 = 8");
   System.out.println("1 * 9 = 9");
  }
- }
+}
