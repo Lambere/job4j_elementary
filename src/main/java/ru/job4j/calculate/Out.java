@@ -2,7 +2,7 @@ package ru.job4j.calculate;
 
 public class Out {
     public static void main(String[] args) {
-        String idea = "I like Java! ";
+        String idea = "I like Java!";
         System.out.println(idea);
         idea = idea + "But i am a newbie  ";
         int year = 2022;
